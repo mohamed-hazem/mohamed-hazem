@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Mohamed Hazem
 
-* 🎓 Studied Computer and Systems Engineering at Mansoura University
-* 💡 Passionate about AI, Machine Learning
-* 🚀 Experienced in building AI applications, APIs, and web scraping tools
+* 🎓 Studied Computers and Systems Engineering at Mansoura University
+* 💡 Passionate about AI, Robotics
+* 🚀 Experienced in building AI applications, intelligent agents, APIs, and web scraping tools
 * 🌱 Constantly learning and exploring new technologies to solve real-world problems
 
 ---
